@@ -1,7 +1,7 @@
-import {createStore, applyMiddleware, Action} from 'redux'
+import {applyMiddleware, createStore} from 'redux'
 import createSagaMiddleware from 'redux-saga'
 import {takeEvery} from 'redux-saga/effects'
-import rootReducer, {RootState} from './reducers'
+import rootReducer from './reducers'
 import {changeNumberWorkerSaga, getSettingsWorkerSaga, setSettingsWorkerSaga} from './reducers/counterReducer'
 
 const initialState = {}
@@ -20,6 +20,5 @@ function* rootWatcher() {
   yield takeEvery('SETTINGS-QUERY', getSettingsWorkerSaga)
   yield takeEvery('CHANGE-SETTINGS', setSettingsWorkerSaga)
 }
-
 
 export default store
