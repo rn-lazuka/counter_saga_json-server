@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/counter_saga_json-server/static/css/main.8d3badbf.chunk.css",
+    "main.js": "/counter_saga_json-server/static/js/main.1c1c53ff.chunk.js",
+    "main.js.map": "/counter_saga_json-server/static/js/main.1c1c53ff.chunk.js.map",
+    "runtime-main.js": "/counter_saga_json-server/static/js/runtime-main.70e3d70c.js",
+    "runtime-main.js.map": "/counter_saga_json-server/static/js/runtime-main.70e3d70c.js.map",
+    "static/js/2.2f15580f.chunk.js": "/counter_saga_json-server/static/js/2.2f15580f.chunk.js",
+    "static/js/2.2f15580f.chunk.js.map": "/counter_saga_json-server/static/js/2.2f15580f.chunk.js.map",
+    "static/js/3.1c30f4b5.chunk.js": "/counter_saga_json-server/static/js/3.1c30f4b5.chunk.js",
+    "static/js/3.1c30f4b5.chunk.js.map": "/counter_saga_json-server/static/js/3.1c30f4b5.chunk.js.map",
+    "index.html": "/counter_saga_json-server/index.html",
+    "static/css/main.8d3badbf.chunk.css.map": "/counter_saga_json-server/static/css/main.8d3badbf.chunk.css.map",
+    "static/js/2.2f15580f.chunk.js.LICENSE.txt": "/counter_saga_json-server/static/js/2.2f15580f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70e3d70c.js",
+    "static/js/2.2f15580f.chunk.js",
+    "static/css/main.8d3badbf.chunk.css",
+    "static/js/main.1c1c53ff.chunk.js"
+  ]
+}
